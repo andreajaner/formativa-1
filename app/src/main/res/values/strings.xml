@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">App_01</string>
+    <string name="btn_msj01">Llamadas</string>
+    <string name="btn_msj02">Bloqueo</string>
+    <string name="btn_msj03">Camara</string>
+    <string name="btn_msj04">Galeria</string>
+</resources>
